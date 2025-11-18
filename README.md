@@ -1,6 +1,6 @@
 # 🧬 Active Causal Experiment Design
 
-**Author:** Jothsna Praveena Pendyala  
+**Author:** Jothsna Praveena Pendyala,Aman Goyal  
 **Conference:** WiML @ NeurIPS 2025 — Poster Presentation  
 
 ---
