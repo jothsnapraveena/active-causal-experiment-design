@@ -50,5 +50,4 @@ and deploy in real lab pipelines for adaptive experiment guidance.
 
 ---
 
-### **GitHub Tagline**
-> Active learning framework for efficient causal effect estimation across biological datasets
+
